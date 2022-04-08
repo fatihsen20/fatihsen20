@@ -2,6 +2,10 @@
 
 ## I'm a student at Pamukkale University and Data Scientist:alien:
 
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning Sequence Mining,PySpark,PyCuda,Tensorflow and Keras
+- 💬 Ask me about Instagram:fatihsen20
+
 <!--
 **fatihsen20/fatihsen20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
