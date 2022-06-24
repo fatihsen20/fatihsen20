@@ -2,8 +2,8 @@
 
 ## I'm a student at Pamukkale University and Data Scientist:alien:
 
-- 🔭 I’m currently working on Python and Frequent Itemset Mining
-- 🌱 I’m currently learning Sequence Mining,PySpark,PyCuda,Tensorflow and Keras
+- 🔭 I’m currently working on Python,Frequent Itemset Mining,Sequence Mining,PySpark
+- 🌱 I’m currently learning PyCuda,Tensorflow and Keras
 - 💬 Ask me about Instagram:fatihsen20
 
 <!--
