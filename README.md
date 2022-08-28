@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Fatih
 
-## I'm a student at Pamukkale University and Data Scientist:alien:
+## I'm a master degree student at Pamukkale University and Data Scientist:alien:
 
 - 🔭 I’m currently working on Python,Frequent Itemset Mining,Sequence Mining,PySpark
 - 🌱 I’m currently learning PyCuda,Tensorflow and Keras
