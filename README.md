@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Python,Frequent Itemset Mining,Sequence Mining,PySpark
 - 🌱 I’m currently learning PyCuda,Tensorflow and Keras
-- 💬 Ask me about Instagram:fatihsen20
+- 💬 Ask me about Linkedin: [Fatih Şen](https://www.linkedin.com/in/fatih-şen-91b117141/)
 
 <!--
 **fatihsen20/fatihsen20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
