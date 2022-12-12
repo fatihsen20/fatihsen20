@@ -2,8 +2,8 @@
 
 ## I'm a master degree student at Pamukkale University and Data Scientist:alien:
 
-- 🔭 I’m currently working on Python, Frequent Itemset Mining, Sequence Mining, PySpark, Tensorflow and Keras
-- 🌱 I’m currently learning PyCuda, Numba, Docker 
+- 🔭 I’m currently working on Python, Frequent Itemset Mining, Sequence Mining, PySpark, Tensorflow and Keras, Docker
+- 🌱 I’m currently learning PyCuda, Numba
 - 💬 Ask me about Linkedin: [Fatih Şen](https://www.linkedin.com/in/fatih-şen-91b117141/)
 
 <!--
