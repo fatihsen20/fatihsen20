@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=fatihsen20&color=blueviolet&label=PROFILE+VIEWS&style=plastic)
-
-[![Fatih Şen GitHub stats](https://github-readme-stats.vercel.app/api?username=fatihsen20&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
