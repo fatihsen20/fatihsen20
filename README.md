@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Fatih
 
-## I'm a master degree student at Pamukkale University and Data Scientist:alien:
+## I'm a Jr. Data Scientist:alien:
 
-- 🔭 I’m currently working on Python, Frequent Itemset Mining, Sequence Mining, PySpark, Tensorflow and Keras, Docker
-- 🌱 I’m currently learning PyCuda, Numba
+- 🔭 I’m currently working on Python, Machine Learning, Data Science, Data Mining
+- 🌱 I’m currently learning NLP, Data Centric AI
 - 💬 Ask me about Linkedin: [Fatih Şen](https://www.linkedin.com/in/fatih-şen-91b117141/)
 
 <!--
