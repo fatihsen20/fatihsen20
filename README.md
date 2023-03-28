@@ -38,13 +38,23 @@
 
 ---
 
+<h3>Simple Joke 🥲</h3>
+
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ---
 
-[![Fatih github stats](https://github-readme-stats.vercel.app/api?username=fatihsen20&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/fatihsen20/github-readme-stats)
+<h3>GitHub Stats 📊</h3>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatihsen20&theme=discord_old_blurple)
+
+<!-- ![Fatih GitHub stats](https://github-readme-stats.vercel.app/api?username=fatihsen20&include_all_commits=true&count_private=true&show_icons=true)
+ -->
+<!-- [![Fatih github stats](https://github-readme-stats.vercel.app/api?username=fatihsen20&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/fatihsen20/github-readme-stats) -->
 
 ---
+
+<h3>Snake Game 🐍</h3>
 
 <picture>
   <source
