@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Machine Learning.
 - 👯 I am looking for a good team and working environment where I can work with fun.
-- 💬 Show more info: [portfolio](https://fatihsen20.github.io/website/)
+- 💬 Show more info: [portfolio](https://fatihsen20.github.io/portfolio/)
 
 ---
 
