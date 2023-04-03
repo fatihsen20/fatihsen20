@@ -10,7 +10,7 @@
 
 ---
 
-<h3 align="left">Connect and Follow Me</h3>
+<h3 align="left">Contact and Follow Me</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatih-şen-91b117141/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:fatih.sn2000@gmail.com)](mailto:fatih.sn2000@gmail.com)
