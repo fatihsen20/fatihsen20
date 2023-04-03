@@ -2,7 +2,7 @@
 
 ---
 
-<p>Hello ,welcome to my GitHub profile. I'm a 23 year-old computer science and a Data Scientist. </p>
+<p>Hello, welcome to my GitHub profile. I'm a 23 year-old computer science and a Data Scientist. </p>
 
 - 🔭 I’m currently working on Machine Learning.
 - 👯 I am looking for a good team and working environment where I can work with fun.
