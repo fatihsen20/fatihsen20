@@ -32,6 +32,19 @@
 
 ---
 
+### My Opensource Packages
+|[FIMAlgorithms](https://github.com/fatihsen20/FIM) |
+| -- |
+
+---
+
+<h3>My Open Source Contributions</h3>
+
+|[Mlxtend/frequent_patterns](https://github.com/rasbt/mlxtend/pull/1020) | [Mlxtend/frequent_patterns](https://github.com/rasbt/mlxtend/pull/1026) |[Brain Tumor Classification](https://github.com/SartajBhuvaji/Brain-Tumor-Classification-Using-Deep-Learning-Algorithms/pull/1)
+| -- | -- | --
+
+---
+
 <h3>Now Playing 🎧</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21o62vmvee7ndkudz76twvkdi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
